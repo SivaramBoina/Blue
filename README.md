@@ -1,1 +1,2 @@
-Test repository to understand git sequences
+Test repository to understand git version control management
+
